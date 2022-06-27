@@ -1,4 +1,4 @@
-a = input( )
+a = input('입력:')
 print(a, 3 * ("\n")) # a 출력 후 줄 바꿈 x 3
 print(a, a, a) # a를 연속 3번 출력
 """
